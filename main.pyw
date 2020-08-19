@@ -53,7 +53,12 @@ emoteDict = {
     "y": ":Y:",
     "Z": ":Z:",
     "z": ":Z:",
-    " ": " "
+    " ": ":toadPepe:",
+    ",": " ",
+    ".": " ",
+    "?": ":retro_questionMark:",
+    "`": " ",
+    '"': " "
 }
 
 root = Tk()
